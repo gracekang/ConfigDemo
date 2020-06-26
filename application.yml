@@ -4,7 +4,7 @@ gateway:
 
 token:
   expiration_time: 135791 #1 days
-  secret: '9964242f4727e6c7dc7b257f206a82c74ba71129d947112529500e89543653ab'
+  secret: '{cipher}9964242f4727e6c7dc7b257f206a82c74ba71129d947112529500e89543653ab'
   secret2: 'plain_text1'
 
   
