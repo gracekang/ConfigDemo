@@ -4,7 +4,7 @@ gateway:
 
 token:
   expiration_time: 135791 #1 days
-  secret: '{cipher}9964242f4727e6c7dc7b257f206a82c74ba71129d947112529500e89543653ab'
+  secret: '{cipher}AQCv+WaQHvRedE4xnK08PHN/9bGrILF2+RJZOxi2IFVYncrwNmpIeSA9IAtLKqbX44zlFCUv4HGHMsxiF2KC9hpZxY7cTIOGb2hQoXYJ/91JlMo/Q4nVF0B6qCQZYYcZlh6Hc13WMWhEO6IMjW2eoeuxxXjWNBlt5+Z9aGbyE/CI7LMntRqPtjXWUJG0IOzwG/bD36yXHfnZGybjZeRjt5/FA3nldTjWOGxYLn61vKpHdrU4xnCj2noPN7odgNV7K7SHewgUsATrbqbOKRUFi+ED+/dlLU2Pu8TzYoXtsKFbMCP6nty21GmVx7tpxGOGon489eBtRgtiXiD2nMQ2BkL3Re3J9Mesmm4C84x494QSdtLK/qva19BW74Iy0EewEhw='
   secret2: 'plain_text1'
 
   
