@@ -21,3 +21,6 @@ spring:
   datasource:
     username: kenneth
     password: '{cipher}AQBDwiLEoS2iXMJD/1XKhF5tEFlRmdCKXrEtR8+J41nOxB1qSWqJtiu/5nUfdKgcN+XrFwSPYlcZK+M5EEUmg6k05DIERumNiM+0zItkTF32bXWAKnQZHJ7MqBfNtXPXc3BlWcPklJ8Ez7xDUqu7NaWHDzY1WpzMsLVdNmWIboe92891nB68S54DR1kdFaqxoScZ9MPj0PUNbBCPnElOLMGXuTuWaPDWhIu70oQI9vcpJ571GytjoBbowFAYgSdJwMoBPu323oRH1ovSRRQxduLqBIQUU+RswwCMRdVhKbID6c8zCd7Rawd4AZvPtsX5Qk0xWZgZTVQrxYQOjTOBnJ0oO3p51L5PE65MDJdsUYbfrLtGg/9+PtRa0cn2HOgPnnM='
+
+albums:
+  url: http://albums-ws/users/%s/albums
